@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @RomanoGameplay
-- 👀 I’m interested in specialize and have a job as a data scientist
-- I’m currently learning EDA, create dashboards using dash in jupyter
-- I’m looking to collaborate on with what I can. I hope can help.
+👋 Olá! Eu sou o Romano! 
+
+💼 Sou um entusiasta de dados e amo trabalhar com ETL, Data Science e Machine Learning. Python e Jupyter Notebook são minhas ferramentas preferidas para criar soluções inteligentes. 
+
+💡 Tenho experiência em projetos de análise de dados, visualização de dados e implementação de algoritmos de Machine Learning. 💻 Estou sempre buscando aprender e aplicar novas técnicas para melhorar minha habilidades.
 
 
 <!---
